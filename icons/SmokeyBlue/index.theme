@@ -2,7 +2,12 @@
 Name=Smokey-Blue-redux
 Comment=Smokey-Blue-redux
 Inherits=gnome-icons-legacy
-Directories=48x48/emblems,64x64/places
+Directories=64x64/places,48x48/emblems,48x48/places,36x36/places,32x32/places,24x24/places,22x22/places,16x16/places
+
+[64x64/places]
+Size=64
+Context=Places
+Type=Scalable
 
 [48x48/emblems]
 Size=48
@@ -14,7 +19,27 @@ Size=48
 Context=Places
 Type=Scalable
 
-[64x64/places]
-Size=64
+[36x36/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[32x32/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[24x24/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[22x22/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[16x16/places]
+Size=48
 Context=Places
 Type=Scalable
