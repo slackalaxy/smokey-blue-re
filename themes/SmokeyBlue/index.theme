@@ -1,150 +1,45 @@
-[X-GNOME-Metatheme]
-Name=Smokey Blue
-Name[ar]=أزرق مدّخن
-Name[az]=Tüstülü Mavi
-Name[be]=Блакітная дымка
-Name[bg]=Пепеляво синьо
-Name[bn]=ধোয়াটে নীল
-Name[br]=Smokey Blue
-Name[bs]=Smokey Blue
-Name[ca]=Blau fumejant
-Name[cs]=Kouřová modrá
-Name[cy]=Mwg Glas
-Name[da]=Røgblå
-Name[de]=Smokey Blue
-Name[dz]=ཧོནམ་དུ་པ་ཁོག་ཁོ།
-Name[el]=Smokey Blue
-Name[en_CA]=Smokey Blue
-Name[en_GB]=Smokey Blue
-Name[es]=Azul humeante
-Name[et]=Suitsune sinine
-Name[eu]=Ke urdina
-Name[fa]=آبی دودی
-Name[fi]=Savuisen sininen
-Name[fr]=Smokey-Blue
-Name[ga]=Deatach Gorm
-Name[gl]=Azul fumeante
-Name[gu]=ધુમાડા જેવો ભુરો
-Name[he]=עשן כחול
-Name[hi]=धुम्रवर्ण नीला
-Name[hr]=Smokey Blue
-Name[hu]=Füstös kék
-Name[id]=Smokey Blue
-Name[is]=Reykblátt
-Name[it]=Smokey blu
-Name[ja]="スモーキー・ブルー"
-Name[ka]=დაბინდული ლურჯი
-Name[ko]=푸르스름
-Name[ky]=Көк түтүн
-Name[li]=Roukerig blauw
-Name[lt]=Miglotai mėlyna
-Name[lv]=Dūmakaini Zils
-Name[mk]=Сино зачадено
-Name[ml]=പുക നീലിമ
-Name[mn]=Утаан цэнхэр
-Name[ms]=Smokey Blue
-Name[nb]=Blårøyk
-Name[ne]=धुवाँलो नीलो
-Name[nl]=Rokerig Blauw
-Name[nn]=Røykblå
-Name[no]=Blårøyk
-Name[or]=ଧୂଆଁଳିଆ ନୀଳ
-Name[pa]=ਧੂੰਏ ਵਰਗਾ ਨੀਲਾ
-Name[pl]=Przydymiony niebieski
-Name[pt]=Azul Esfumado
-Name[pt_BR]=Azul Esfumaçado
-Name[ro]=Albastru fumuriu
-Name[ru]=Голубая дымка
-Name[sk]=Modrý dym
-Name[sl]=Dimno modra
-Name[sq]=Smokey Blu
-Name[sr]=Прљаво плава
-Name[sr@Latn]=Prljavo plava
-Name[sv]=Rökig blå
-Name[ta]=புகை படிந்த நிலம்
-Name[th]=ฟ้าหม่น
-Name[tr]=Puslu Mavi
-Name[ug]=كۆكۈش تۈتۈن رەڭگى
-Name[uk]=Синій туман
-Name[vi]=Khói xanh da trời
-Name[wa]=Bleuwe foumire
-Name[xh]=i-Smokey Blue
-Name[zh_CN]=烟蓝
-Name[zh_HK]=藍色輕煙
-Name[zh_TW]=藍色輕煙
-Type=X-GNOME-Metatheme
-Comment=A soft glassy appearance
-Comment[ar]=مظهر بلّوري ناعم
-Comment[az]=Yumuşaq aynavari görünüş
-Comment[be]=Мяккі празрысты выгляд
-Comment[bg]=Мек стъклен изглед
-Comment[bn]=কোমল পরিষ্কার আবির্ভাব
-Comment[bs]=Mekani staklenkasti izgled
-Comment[ca]=Una aparença suau i cristalina
-Comment[cs]=Něžný skelnatý vzhled
-Comment[cy]=Golwg feddal, wydrog
-Comment[da]=Et blødt, glasagtigt udseende
-Comment[de]=Eine weiche Oberfläche wie Glas
-Comment[dz]=ཤེལ་བཟུམ་སྦེ་ འཇམ་ཁྱུག་ཅན་གྱི་འབྱུང་སྣང་།
-Comment[el]=Μια απαλή γυάλινη εμφάνιση
-Comment[en_CA]=A soft glassy appearance
-Comment[en_GB]=A soft glassy appearance
-Comment[es]=Una apariencia cristalina suave
-Comment[et]=Pehme klaasjas välimus
-Comment[eu]=Beira leuneko itxura bat
-Comment[fa]=نمایی نرم و شیشه‌ای
-Comment[fi]=Pehmeän lasimainen ulkoasu
-Comment[fr]=Une douce apparence glacée
-Comment[gl]=Unha apariencia cristalina suave
-Comment[gu]=નરમ કાચ જેવો દેખાવ
-Comment[he]=מראה זכוכית עדין
-Comment[hi]=नरम काँच-जैसा प्रकटीकरण
-Comment[hr]=Blagi staklasti izgled
-Comment[hu]=Puha üveges megjelenés
-Comment[id]=Tampilan kaca lembut
-Comment[is]=Mjúkt glerútlit
-Comment[it]=Aspetto delicatamente cristallino
-Comment[ja]=やわらかなガラス状の外観
-Comment[ka]=რბილი,პრიალა იერსახე
-Comment[ko]=부드럽고 잔잔한 모양새
-Comment[ky]=Жумшак тегиз көрүнүш
-Comment[li]=Ein zacht glaasechtig uterlik
-Comment[lt]=Minkšta stiklinė išvaizda
-Comment[lv]=Viegli stiklains izskats
-Comment[mk]=Мек стаклен изглед
-Comment[ml]=ഒരു ലളിത സ്പടിക ദൃശ്യത
-Comment[mn]=Зөөлөн шилэн харагдалт
-Comment[ms]=Penampilan gelas lembut
-Comment[nb]=Et mykt glassaktig utseende
-Comment[ne]=एउटा कोमल चम्कने उद्‍भन
-Comment[nl]=Een zacht glasachtig uiterlijk
-Comment[nn]=Ein mjuk, glasaktig utsjånad
-Comment[no]=Et mykt glassaktig utseende
-Comment[or]=ଗୋଟିଏ କୋମଳ, କାଚ ଭଳି ସାଦୃଶ୍ଯ
-Comment[pa]=ਕੋਮਲ ਚਮਕੀਲੀ ਦਿਖ
-Comment[pl]=Delikatny szklany wygląd
-Comment[pt]=Aparência suave e transparente
-Comment[pt_BR]=Aparência levemente cristalina
-Comment[ro]=O temă cristalină 
-Comment[ru]=Мягкий гладкий вид
-Comment[sk]=Jemný lesklý vzhľad
-Comment[sl]=Mehak steklen izgled
-Comment[sq]=Një paraqitje e embël e xhamtë
-Comment[sr]=Благо стакласти приказ
-Comment[sr@Latn]=Blago staklasti prikaz
-Comment[sv]=Ett mjukt glaslikt utseende
-Comment[ta]=ஒரு மென்மையான கண்ணாடி போன்ற தோற்றம்
-Comment[th]=ดูอ่อนๆสะท้อนแสง
-Comment[tr]=Yumuşak camsı görünüş
-Comment[ug]=يۇمشاق ئەينەكتەك كۆرۈنۈش
-Comment[uk]=М'який гладкий вигляд
-Comment[vi]=Diện mạo thủy tinh mịn
-Comment[wa]=Ene doûce rivnance glaecêye
-Comment[xh]=Imbonakalo ethambileyo engathi yiglasi
-Comment[zh_CN]=软玻璃外观
-Comment[zh_HK]=帶有柔和、朦朧的外觀
-Comment[zh_TW]=帶有柔和、朦朧的外觀
-Encoding=UTF-8
-GtkTheme=Smokey-Blue
-MetacityTheme=Smokey
-IconTheme=Smokey-Blue
+[Icon Theme]
+Name=Smokey-Blue-redux
+Comment=Smokey-Blue-redux
+Inherits=gnome-icons-legacy
+Directories=64x64/places,48x48/emblems,48x48/places,36x36/places,32x32/places,24x24/places,22x22/places,16x16/places
+
+[64x64/places]
+Size=64
+Context=Places
+Type=Scalable
+
+[48x48/emblems]
+Size=48
+Context=Emblems
+Type=Scalable
+
+[48x48/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[36x36/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[32x32/places]
+Size=48
+Context=Places
+Type=Scalable
+
+[24x24/places]
+Size=48
+Context=Places
+Type=Fixed
+
+[22x22/places]
+Size=48
+Context=Places
+Type=Fixed
+
+[16x16/places]
+Size=48
+Context=Places
+Type=Fixed
