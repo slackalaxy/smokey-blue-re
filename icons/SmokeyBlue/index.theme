@@ -32,14 +32,14 @@ Type=Scalable
 [24x24/places]
 Size=48
 Context=Places
-Type=Scalable
+Type=Fixed
 
 [22x22/places]
 Size=48
 Context=Places
-Type=Scalable
+Type=Fixed
 
 [16x16/places]
 Size=48
 Context=Places
-Type=Scalable
+Type=Fixed
